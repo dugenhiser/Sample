@@ -1,1 +1,1 @@
-# Sample
+This is just a project from school
